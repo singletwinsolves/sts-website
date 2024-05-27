@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Github",
+    "link": "https://github.com/",
+    "image": "images/social/github.svg"
+  },
+  {
+    "name": "Twitter",
+    "link": "https://twitter.com/",
+    "image": "images/social/twitter.svg"
+  },
+  {
+      "name": "Email",
+      "link": "mailto:ekyllserif@example.com ",
+      "image": "images/social/email.svg"
+  }
+]

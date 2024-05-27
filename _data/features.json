@@ -1,0 +1,29 @@
+[
+  {
+    "title": "Linux and IT Experts",
+    "description": "Certified Linux engineers and IT experts ready to resolve your business needs.",
+    "image": {
+      "url": "images/features/noun_branding_1885335.svg",
+      "width": 80,
+      "height": 80
+    }
+  },
+  {
+    "title": "IT Consulting",
+    "description": "Free your business from the stress of IT management",
+    "image": {
+      "url": "images/features/noun_The Process_1885341.svg",
+      "width": 80,
+      "height": 80
+    }
+  },
+  {
+    "title": "Unique Insight. Experience. Expertise",
+    "description": "Our team brings together technological and domain expertise combined with tried-and-tested methodologies.",
+    "image": {
+      "url": "images/features/noun_3d modeling_1885342.svg",
+      "width": 80,
+      "height": 80
+    }
+  }
+]
