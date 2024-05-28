@@ -2,12 +2,28 @@
 ---
 
 // Colors
-$primary: #e5261f;
-$primary-dark: #a01b16;
-$secondary: #f88379;
-$black: #2f2f41;
-$white: #ffffff;
-$white-offset: #fff6f8;
+// gray color code  #25262a
+// green color code #4dba87
+// The cool green you like 
+// $primary-dark: #a01b16;
+// $primary: #e5261f; // base red color 
+//
+//
+// $primary: #4dba87; // base red color 
+// $primary-dark: #4dba87;
+// $secondary: #3a1411;
+// $black: #2f2f41;
+// $white: #ffffff;
+// $white-offset: #fff6f8;
+// $steel: #5c5a5a;
+// font-family:source-code-pro,Menlo,Monaco,Consolas,Courier New,monospace;
+
+$primary: #4dba87; // base red color 
+$primary-dark: #4dba87;
+$secondary: #3a1411;
+$black: #20202e;
+$white: #eaedf5;
+$white-offset: #fff6f82a;
 $steel: #5c5a5a;
 
 // Links
@@ -17,13 +33,15 @@ $link-hover-color: lighten($primary, 10%);
 $link-hover-decoration: underline;
 
 // Fonts
-$font-family-base: Helvetica, Arial, sans-serif, -apple-system;
-$font-family-heading: "Playfair Display", serif, -apple-system;
+// $font-family-base: Helvetica, Arial, sans-serif, -apple-system;
+// $font-family-heading: "Playfair Display", serif, -apple-system;
+$font-family-base: source-code-pro, Monaco, monospace, -apple-system;
+$font-family-heading: source-code-pro, -apple-system;
 
 // Footer
-$footer-background-color: $primary;
+$footer-background-color: $primary-dark;
 $footer-text-color: $white;
-$sub-footer-background-color: darken($primary, 10%);
+$sub-footer-background-color: darken($primary-dark, 10%);
 $sub-footer-text-color: $white;
 
 // Bootstrap 5.3.2
