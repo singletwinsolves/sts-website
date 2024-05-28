@@ -1,3 +1,17 @@
+# SingleTwin Solutions
+
+
+#### Colors can be changed at assets/css/style.scss
+// Colors
+$primary: #e5261f;
+$primary-dark: #a01b16;
+$secondary: #f88379;
+$black: #2f2f41;
+$white: #ffffff;
+$white-offset: #fff6f8;
+$steel: #5c5a5a;
+
+---
 # Jekyll Serif Theme
 
 Serif is a modern business theme for Jekyll. It contains multiple content types for a typical brochure/marketing website. The theme is fully responsive, blazing fast and artfully illustrated.
