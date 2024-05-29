@@ -22,8 +22,9 @@ $primary: #4dba87; // base red color
 $primary-dark: #4dba87;
 $secondary: #3a1411;
 $black: #20202e;
-$white: #eaedf5;
-$white-offset: #fff6f82a;
+$light-gray: #20202e; // light gray color
+$white: #eaedf5; // light gray color
+$white-offset: #fff6f8;
 $steel: #5c5a5a;
 
 // Links
@@ -90,7 +91,7 @@ $sub-footer-text-color: $white;
 // @import "bootstrap/carousel";
 // @import "bootstrap/spinners";
 // @import "bootstrap/offcanvas";
-// @import "bootstrap/placeholders";
+@import "bootstrap/placeholders";
 
 // 5. Include Bootstrap helpers and utilities
 @import "bootstrap/helpers";
