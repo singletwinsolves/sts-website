@@ -3,13 +3,18 @@
 
 #### Colors can be changed at assets/css/style.scss
 // Colors
-$primary: #e5261f;
-$primary-dark: #a01b16;
-$secondary: #f88379;
-$black: #2f2f41;
-$white: #ffffff;
+$primary: #4dba87; // base red color 
+$primary-dark: #4dba87;
+$secondary: #3a1411;
+$black: #20202e;
+$light-gray: #20202e; // light gray color
+$white: #eaedf5; // light gray color
 $white-offset: #fff6f8;
 $steel: #5c5a5a;
+
+
+# SVG and PNG 
+https://thenounproject.com/search/icons/?q=consulting
 
 ---
 # Jekyll Serif Theme
