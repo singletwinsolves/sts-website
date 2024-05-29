@@ -1,16 +1,20 @@
 ---
-title: Contact
+title: Contact STS
 layout: contact
 description: Contact
 ---
+ 
+Contact us via email for inquiries or support information.
 
-Lorem markdownum aequalis strigis. Saetigeri iubeas, vultu huic alvum nondum de obside ut laniavit arbor palmis, cum quin. Rupes vetat videndo, armigerae crimen habet Priamum nec.
+---
+HOURS OF OPERATION
+
 
 | Day       | Opening Hours   |
 | --------- | --------------- |
-| Tuesday   | 8:30am - 5:00pm |
-| Wednesday | 8:30am - 5:00pm |
-| Thursday  | 8:30am - 5:00pm |
-| Friday    | 8:30am - 5:00pm |
-| Saturday  | 10:am - 4:00pm  |
+| Tuesday   | 8:30am - 5:00pm EST |
+| Wednesday | 8:30am - 5:00pm EST  |
+| Thursday  | 8:30am - 5:00pm EST  |
+| Friday    | 8:30am - 5:00pm EST  |
+| Saturday  | 10:am - 4:00pm EST   |
 | Saturday  | Closed          |
