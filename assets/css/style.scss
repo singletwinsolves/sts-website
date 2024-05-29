@@ -1,13 +1,7 @@
 ---
 ---
 
-// Colors
-// gray color code  #25262a
-// green color code #4dba87
-// The cool green you like 
-// $primary-dark: #a01b16;
-// $primary: #e5261f; // base red color 
-//
+// Colors 
 //
 // $primary: #4dba87; // base red color 
 // $primary-dark: #4dba87;
@@ -19,13 +13,15 @@
 // font-family:source-code-pro,Menlo,Monaco,Consolas,Courier New,monospace;
 
 $primary: #4dba87; // base red color 
-$primary-dark: #4dba87;
+$primary-dark: #478c5c; // Emerald Green
 $secondary: #3a1411;
 $black: #20202e;
 $light-gray: #20202e; // light gray color
 $white: #eaedf5; // light gray color
-$white-offset: #fff6f8;
+$white-offset: #3d503a;  // Forest Green
+$callbox-color: #515255; // gray
 $steel: #5c5a5a;
+$blue-gray: #929ead;
 
 // Links
 $link-color: $primary;
@@ -91,7 +87,7 @@ $sub-footer-text-color: $white;
 // @import "bootstrap/carousel";
 // @import "bootstrap/spinners";
 // @import "bootstrap/offcanvas";
-@import "bootstrap/placeholders";
+// @import "bootstrap/placeholders";
 
 // 5. Include Bootstrap helpers and utilities
 @import "bootstrap/helpers";
