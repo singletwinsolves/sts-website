@@ -1,19 +1,19 @@
 ---
-title: "Security & Compliance checks"
+title: "Security & Compliance Services"
 date: 2019-02-28T15:15:34+10:00
-weight: 3
+weight: 6
 ---
-
-
-
-HEALTHCARE
 
 SingleTwin Solutions offers fully managed IT services for private doctors, dentists, podiatrists, physiotherapists, psychiatrists and other health practitioners.
 
 We tailor our service to meet the needs of your individual business and industry requirements – utilising enterprise-class technology to ensure patient and critical company data always remains secure, accessible and instantly retrievable.
 
 
-
+* Risk assessment 
+* Compliance gap analysis
+* Auditing and monitoring Linux Systems
+* Training and awareness 
+* Policy development and implementation 
 
 
 As a provider of specialist healthcare services, you will be subject to strict industry requirements on data protection and recoverability. SingleTwin Solutions utilises technology and systems to ensure you are compliant within your field of practice.

@@ -1,24 +1,13 @@
 ---
-title: "Network Monitoring"
+title: "SIEM & Security Monitoring"
 date: 2019-02-28T15:15:34+10:00
-weight: 3
+weight: 5
 ---
 
-Lorem markdownum aequalis strigis. Saetigeri iubeas, vultu huic alvum nondum
-de obside ut laniavit arbor palmis, cum quin. Rupes vetat videndo, armigerae
-crimen habet Priamum nec.
- 
+SingleTwin Solutions’s business network security service includes all the measures and practices needed to protect your company’s computer systems, data and networks from unauthorized access, theft, damage or disruption. We leverage Wazuh as the Security and compliance tool for SIEM management.
 
 
-Internet & Network Security
-
-SingleTwin Solutions’s business network security service includes all the measures and practices needed to protect your company’s computer systems, data and networks from unauthorized access, theft, damage or disruption.
-
-This includes actions such as the implementation of firewalls, encryption, secure password management, and regular updating of security software, as well as procedures for incident response and data backup.
-
-The goal of business network security is to ensure the confidentiality, integrity and availability of your business’s sensitive information and systems.
-
-
+The Wazuh Security Information and Event Management (SIEM) solution is a centralized platform for aggregating and analyzing telemetry in real time for threat detection and compliance. Wazuh collects event data from various sources like endpoints, network devices, cloud workloads, and applications for broader security coverage.
 
 Day-to-day Security Tasks
 

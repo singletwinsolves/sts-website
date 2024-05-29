@@ -1,13 +1,11 @@
 ---
-title: "Software Troubleshooting"
+title: "Software Development"
 date: 2019-02-28T15:15:34+10:00
-weight: 3
+weight: 2
 ---
 
-Lorem markdownum aequalis strigis. Saetigeri iubeas, vultu huic alvum nondum
-de obside ut laniavit arbor palmis, cum quin. Rupes vetat videndo, armigerae
-crimen habet Priamum nec.
- 
+
+Having a robust and timely backup and recovery strategy is critical to the long term success of a business because it ensures your data and day-to-day operating procedures can be restored seamlessly in the event of data loss or corruption.
 
 
 SOFTWARE UPDATES

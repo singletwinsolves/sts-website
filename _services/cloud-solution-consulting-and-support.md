@@ -1,10 +1,34 @@
 ---
 title: "Cloud Solution Consulting"
 date: 2019-02-28T15:15:34+10:00
-weight: 3
+weight: 4
 ---
 
 Our engineers can help you optimize the way you use your Cloud environment. Delivering a solid strategy for deploying services, reducing costs, and improving performance. Our extensive experience helps us see what others might miss. We offer customized solutions that are adapted to best fit the clients' needs, plans and goals. That said there is one thing that is always included: we utilize the industry’s latest tools, methodologies, and services in order to deliver the best value to our clients. 
+
+Analysis and Planning
+* The reason for moving the workload 
+* What the migration should accomplish 
+* The amount of data that needs to be moved 
+* The type of cloud migration (public, private, hybrid, or multi-cloud scenario)
+* The method used to migrate the data 
+* The time frame needed to complete the transition 
+* The cost estimate and projection 
+
+Strategies
+* Determine your business needs. 
+* Opportunity discernment. 
+* Create a hosting environment for the migration.
+* Test applications in the pilot environment. 
+
+ Migrating 
+ * use of automation tools 
+ * convert code to cloud language 
+ * constantly monitor the process to ensure a smooth transition 
+
+ Post Migration Arrangement 
+ * Alight the new system with the business administration
+ * Provide a transformation management plan.
  
  
 # Benchmarking

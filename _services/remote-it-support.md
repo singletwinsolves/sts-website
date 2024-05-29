@@ -1,16 +1,8 @@
 ---
 title: "Remote IT Support"
 date: 2019-02-28T15:15:34+10:00
-weight: 3
+weight: 7
 ---
-
-Lorem markdownum aequalis strigis. Saetigeri iubeas, vultu huic alvum nondum
-de obside ut laniavit arbor palmis, cum quin. Rupes vetat videndo, armigerae
-crimen habet Priamum nec.
- 
-
-
-IT Help-desk
 
 In today’s fast-paced market, IT challenges can arise at any moment. They often come at the most inconvenient times too, disrupting you and your team’s workflow – affecting productivity and compromising service levels.
 

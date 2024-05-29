@@ -1,7 +1,7 @@
 ---
 title: "Anti-Virus/ Device Security"
 date: 2019-02-28T15:15:34+10:00
-weight: 4
+weight: 10
 ---
 
 We utilize signature-based detection, behavioral analysis, and enterprise-class technologies to prevent and clean infections from your critical business system. Hardline protection from viruses, worms and Trojan horses.
