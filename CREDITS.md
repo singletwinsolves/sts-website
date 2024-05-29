@@ -2,7 +2,6 @@
 
 
 #### Colors can be changed at assets/css/style.scss
-```
 // Colors
 $primary: #4dba87; // base red color 
 $primary-dark: #4dba87;
@@ -12,13 +11,23 @@ $light-gray: #20202e; // light gray color
 $white: #eaedf5; // light gray color
 $white-offset: #fff6f8;
 $steel: #5c5a5a;
-```
 
-* [SVG and PNG images | The Noun Project](https://thenounproject.com/search/icons/?q=consulting)
-* [Source Link Demo](https://jekyll-serif.netlify.app/)
-* [Source Github project](https://github.com/zerostaticthemes/jekyll-serif-theme)
+
+# SVG and PNG 
+https://thenounproject.com/search/icons/?q=consulting
 
 ---
+# Jekyll Serif Theme
+
+Serif is a modern business theme for Jekyll. It contains multiple content types for a typical brochure/marketing website. The theme is fully responsive, blazing fast and artfully illustrated.
+
+[Live Demo](https://jekyll-serif.netlify.app/) |
+[Zerostatic Themes](https://www.zerostatic.io)
+
+<a href="https://www.buymeacoffee.com/zerostatic" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
+
+![Jekyll Serif Theme screenshot](https://www.zerostatic.io/theme/jekyll-serif/jekyll-serif-screenshot.png)
+
 ### Theme features
 
 - Jekyll 4.2+

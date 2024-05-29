@@ -3,11 +3,11 @@ title: About
 layout: page
 description: About
 bodyClass: page-about
+intro_image: "images/illustrations/noun-cloud-services.svg"
+#intro_image_absolute: true
 ---
 
-Lorem markdownum aequalis strigis. _Saetigeri iubeas_, vultu huic alvum nondum
-de obside ut laniavit arbor palmis, cum quin. Rupes vetat videndo, armigerae
-crimen habet Priamum nec.
+Business-Focused IT Consulting
 
 
 # Single Twin Solutions -  A Software Service Company
@@ -15,6 +15,21 @@ crimen habet Priamum nec.
 SingleTwin Solutions services businesses of all industries and sectors. We are perfect for small and medium sized businesses who don't have the time, know-how or resources to manage IT and Linux needs reliably and cost effectively. 
 
 We’re passionate about remarkable service. We are a team of experienced IT professionals that have served businesses in a wide range of industries and market sectors including healthcare, legal, construction and manufacturing.
+
+
+
+Business-Focused IT Consulting
+IT Consulting
+
+Let our consultants guide you to a better tomorrow for your business. Our IT consulting services add value, from infrastructure & security enhancements to cloud computing and software development to managed IT services & support.
+
+Focused on delivering secure, efficient solutions across your entire tech stack
+An IT Consulting Company Committed To Your Success
+
+We handle all key IT management tasks common to businesses across many industries and market sectors.
+
+Consult with our teams to build a high-performing IT environment. Listening to your needs is a critical component of our consulting process. First, we work to understand your business as well as your unique needs and challenges. Then, we move on to research & analysis and investigate the best solutions for your goals. We finish by providing in-depth recommendations that align with your business needs and objectives.
+Our teams provide consulting, implementation, and support in the following areas:
 
 
 
