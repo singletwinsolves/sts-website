@@ -19,7 +19,7 @@ footer:
   - name: "Home"
     url: "/"
     weight: 1
-  - name: "IT Services"
+  - name: "Services"
     url: "/services/"
     weight: 2
   - name: "Privacy Policy"
