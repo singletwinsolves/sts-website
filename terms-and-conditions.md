@@ -40,5 +40,12 @@ Limitation of Liability
 7.1. To the fullest extent permitted by law, we will not be liable for any direct, indirect, incidental, special, consequential, or punitive damages arising from the use of our Services.
 7.2. Our liability for any claim arising from the use of our Services, whether in contract, tort, or otherwise, will not exceed the amount paid by you to us for our Services during the six (6) month period preceding the claim.
 
+7.3 A COVERED PARTY (AS DEFINED BELOW) SHALL NOT BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, OR CONSEQUENTIAL DAMAGES OF ANY KIND WHATSOEVER (INCLUDING, WITHOUT LIMITATION, ATTORNEYS’ FEES AND LOST PROFITS OR SAVINGS) IN ANY WAY DUE TO, RESULTING FROM, OR ARISING IN CONNECTION WITH THIS SITE, INCLUDING ITS CONTENT, REGARDLESS OF ANY NEGLIGENCE OF ANY COVERED PARTY. “Covered Party” means SingleTwin Solutions, its affiliates, and any officer, director, employee, subcontractor, agent, successor, or assign of SingleTwin Solutions or its affiliates.
+
 Indemnification
-8.1. You agree to indemnify, defend, and hold us harmless from and against any claims, damages, liabilities, costs, and expenses (including
+8.1. You agree to indemnify, defend, and hold us harmless from and against any claims, damages, liabilities, costs, and expenses.
+
+
+9. IF YOU DO NOT AGREE
+
+IF THESE TERMS AND CONDITIONS OF USE ARE NOT ACCEPTABLE IN FULL, YOU MUST IMMEDIATELY TERMINATE YOUR USE OF THIS SITE.
