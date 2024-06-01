@@ -3,14 +3,13 @@ title: Contact Us
 layout: contact
 description: Contact
 intro_image: "/images/features/business-and-finance.png"
-contact_description: "From Cybersecurity to Linux troubleshooting and everyday Help Desk Support – worry no more, you’re completely covered."
+contact_form: true
 ---
+
+Free your business from the stress of IT challenges. From Cybersecurity to Linux troubleshooting and everyday Help Desk Support, you’re completely covered. All critical day-to-day tasks handled for you by experienced IT engineers.
 
 We are located in South Florida but our services are remote.
 Contact us via email for inquiries or support information.
-
-Free your business from the stress of IT challenges.
-All critical day-to-day tasks handled for you by experienced Software engineers.
 
 Take your first steps to IT peace of mind, contact us today
 

@@ -1,7 +1,7 @@
 # SingleTwin Solutions
 
-
 Font Awesome self hosted version: 6.5.2
+
 #### Colors can be changed at assets/css/style.scss
 ```
 // Colors
@@ -155,3 +155,9 @@ Hex codes: #008080, #808080
   }
 
 ]
+
+
+--- 
+### Resources
+# setting up font awesome 
+https://sylhare.github.io/2023/12/05/Font-awesome-jekyll.html

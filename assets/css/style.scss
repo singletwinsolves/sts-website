@@ -116,8 +116,10 @@ $sub-footer-text-color: $white;
 @import "components/feature";
 @import "components/social";
 @import "components/fonts"; // Uncomment this line to self host font
+
 // Font-Awesome
-@import "external/font-awesome/fontawesome";
+@import "external/fontawesome";
+
 // Pages
 @import "pages/page-home";
 @import "pages/page-teams";

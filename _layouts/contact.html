@@ -30,6 +30,7 @@ bodyClass: "page-contact"
             </div>
             </br>
             </br>
+            {% if page.contact_form == "true" %}
             <form action="{FORM_ENDPOINT}" method="POST">
                 <div class="mb-3 pt-0">  
                 <input type="text" placeholder="Your name" name="name" required />
@@ -44,6 +45,7 @@ bodyClass: "page-contact"
                 <button type="submit">SUBMIT</button>
                 </div>
             </form>
+            {% endif %}
         </div>
     </div>
 </div>
