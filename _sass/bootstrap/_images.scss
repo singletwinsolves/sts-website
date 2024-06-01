@@ -21,7 +21,12 @@
   // Keep them at most 100% wide
   @include img-fluid();
 }
-
+.inline-img {
+  display: inline;
+  margin: 0 0.125em;
+  padding: 0;
+  vertical-align: baseline;
+}
 //
 // Figures
 //

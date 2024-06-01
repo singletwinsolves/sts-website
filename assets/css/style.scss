@@ -115,12 +115,14 @@ $sub-footer-text-color: $white;
 @import "components/strip";
 @import "components/feature";
 @import "components/social";
-// @import "components/fonts"; // Uncomment this line to self host font
-
+@import "components/fonts"; // Uncomment this line to self host font
+// Font-Awesome
+@import "external/font-awesome/fontawesome";
 // Pages
 @import "pages/page-home";
 @import "pages/page-teams";
 @import "pages/page-service";
+
 
 body {
   font-size: 16px;
