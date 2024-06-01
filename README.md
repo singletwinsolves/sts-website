@@ -1,6 +1,7 @@
 # SingleTwin Solutions
 
 
+Font Awesome self hosted version: 6.5.2
 #### Colors can be changed at assets/css/style.scss
 ```
 // Colors
