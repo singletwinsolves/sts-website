@@ -2,7 +2,7 @@
 title: Contact Us
 layout: contact
 description: Contact
-intro_image: "/images/features/business-and-finance.png"
+intro_image: "images/logo/Singletwin-BLK.svg"
 contact_form: true
 ---
 
