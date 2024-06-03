@@ -22,12 +22,15 @@ footer:
   - name: "Services"
     url: "/services/"
     weight: 2
+  - name: "Quick Fix"
+    url: "/quick-fix/"
+    weight: 3
   - name: "Privacy Policy"
     url: "/privacy-policy/"
-    weight: 2
+    weight: 4
   - name: "Terms"
     url: "/terms-and-conditions/"
-    weight: 2
+    weight: 5
   - name: "Contact"
     url: "/contact/"
-    weight: 3
+    weight: 6
