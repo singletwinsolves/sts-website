@@ -15,4 +15,8 @@ We specialize in Linux Server support, maintenance, and Software troubleshooting
 ### Need Urgent Support?
 Get 4 hours of support time today
 
--- add button
+<div class="row justify-content-center">
+  <div class="col-auto">
+    <a class="button button-primary" href="/quick-fix">Quick Fix</a>
+  </div>
+</div>

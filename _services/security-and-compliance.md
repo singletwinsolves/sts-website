@@ -31,3 +31,17 @@ With advancements in healthcare technology, industry audits are becoming increas
     On demand security risk assessments
     End-user security and compliance training
 
+
+Day-to-day Security Tasks
+
+We utilise enterprise-class network security monitoring software to remotely manage your business systems from our service center offices. Continous and comprehensive measures are needed to ensure your operations run seamlessly day-to-day. Core daily tasks include:
+N
+Verifying backup procedures.
+N
+Handling updates for both Windows and Mac operating systems.
+N
+Ensuring that antivirus software is updated regularly.
+N
+Continuously monitoring networks for compliance and efficiency.
+N
+Investigating persistent issues to find permanent solutions.
