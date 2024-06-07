@@ -1,37 +1,36 @@
-# SingleTwin Solutions 
+# SingleTwin Solutions
 
-[www.singletwinsolutions.com](https://www.singletwinsolutions.com)
+Font Awesome self hosted version: 6.5.2
 
- Jekyll Serif Theme
+```
+Branding Fonts: 
+Montserrat ExtraBold
+Type Machine 
 
-Serif is a modern business theme for Jekyll. It contains multiple content types for a typical brochure/marketing website. The theme is fully responsive, blazing fast and artfully illustrated.
+```
 
-[Live Demo](https://jekyll-serif.netlify.app/) |
-[Zerostatic Themes](https://www.zerostatic.io)
+# Branding Colors
+green: #4dba87
+gray: #3a1411
 
-<a href="https://www.buymeacoffee.com/zerostatic" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
+#### Colors can be changed at assets/css/style.scss
+```
+// Colors
+$primary: #4dba87; // base red color
+$primary-dark: #4dba87;
+$secondary: #3a1411;
+$black: #20202e;
+$light-gray: #20202e; // light gray color
+$white: #eaedf5; // light gray color
+$white-offset: #fff6f8;
+$steel: #5c5a5a;
+```
 
-![Jekyll Serif Theme screenshot](https://www.zerostatic.io/theme/jekyll-serif/jekyll-serif-screenshot.png)
+* [SVG and PNG images | The Noun Project](https://thenounproject.com/search/icons/?q=consulting)
+* [Source Link Demo](https://jekyll-serif.netlify.app/)
+* [Source Github project](https://github.com/zerostaticthemes/jekyll-serif-theme)
 
-### Theme features
-
-- Jekyll 4.2+
-- Netlify & Github Pages ready
-- Services (Collection)
-- Team (Collection)
-- Features (Data)
-- SCSS
-- 100% Responsive design, animated hamburger and mobile slide in menu
-- Bootstrap 4.6 - _Only the bootstrap grid and utilites are imported by default. If you want to use more of the Boostrap library you can uncomment the `@import` in `style.scss`_
-- 100/100 Google Lighthouse speed score
-- 100/100 Google Lighthouse seo score
-- 100/100 Google Lighthouse accessibility score
-- 100/100 Google Lighthouse best practices score
-- Under 50KB without images or 80KB with images and illustrations ⚡
-- Under 20KB without Google fonts ⚡⚡⚡
-- Robust example content included
-- Royalty free illustrations included
-
+---
 ## Installation
 
 ### Installing Ruby & Jekyll
@@ -62,24 +61,31 @@ bundle exec jekyll build
 
 ## Deployment
 
-### Netlify
-
-Use Netlify to deploy this theme. This theme contains a valid and tested `netlify.toml` - Feel free to use the 1-click deploy below.
-
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/zerostaticthemes/jekyll-serif-theme)
-
 ### Github Pages
 
 This theme has been tested to work with Github Pages (and Github Project Pages). When using Github Pages you will need to update the `baseurl` in the `_config.yml` otherwise all the css, images and paths will be broken.
 
 For example the site https://zerostaticthemes.github.io/jekyll-serif-theme would have `baseurl: "/jekyll-serif-theme/"`
 
-## Extras
 
-### License
+### Theme features
 
-- You cannot create ports of this theme
-- You cannot re-sell this theme
+- Jekyll 4.2+
+- Netlify & Github Pages ready
+- Services (Collection)
+- Team (Collection)
+- Features (Data)
+- SCSS
+- 100% Responsive design, animated hamburger and mobile slide in menu
+- Bootstrap 4.6 - _Only the bootstrap grid and utilites are imported by default. If you want to use more of the Boostrap library you can uncomment the `@import` in `style.scss`_
+- 100/100 Google Lighthouse speed score
+- 100/100 Google Lighthouse seo score
+- 100/100 Google Lighthouse accessibility score
+- 100/100 Google Lighthouse best practices score
+- Under 50KB without images or 80KB with images and illustrations ⚡
+- Under 20KB without Google fonts ⚡⚡⚡
+- Robust example content included
+- Royalty free illustrations included
 
 ### Credits
 
@@ -87,33 +93,22 @@ For example the site https://zerostaticthemes.github.io/jekyll-serif-theme would
 - Stock images by Unsplash - https://unsplash.com/
 - Feature icons by Noun Project - https://thenounproject.com/
 
-## Support My Work
-
-I've been building open source themes for all the main static site generators for over 4 years now. My premium themes allow me to continue to allocate time to maintain, improve and build new open source themes.
-
-1. Leave a star ⭐🙏🏻
-2. Make a contribution to this theme, add a feature, fix a bug, nothing is to small 
-2. Mention this theme on twitter [](https://twitter.com/zerostaticio) 📢
-3. Purchase a premium theme 🔥
-
 ### All Jekyll Themes by Zerostatic
-
 - [Jekyll Serif (Open Source)](https://www.zerostatic.io/theme/jekyll-serif/)
 - [Jekyll Atlantic (Open Source)](https://www.zerostatic.io/theme/jekyll-atlantic/)
 - [Jekyll Advance (Premium)](https://www.zerostatic.io/theme/jekyll-advance/)
 - [Jekyll Origin (Premium)](https://www.zerostatic.io/theme/jekyll-origin/)
 - [Jekyll Curate (Premium)](https://www.zerostatic.io/theme/jekyll-curate/)
-
 🇦🇺 **Made in Australia** by Robert Austin
 
 
 
-# COLOR CODES 
-For those looking for a more relaxed yet sophisticated color combination, teal and gray present a beautiful analogous color scheme ideal for industries looking to convey trust and expertise, particularly finance, law, and consulting. 
+# COLOR CODES
+For those looking for a more relaxed yet sophisticated color combination, teal and gray present a beautiful analogous color scheme ideal for industries looking to convey trust and expertise, particularly finance, law, and consulting.
 
 Hex codes: #008080, #808080
 
-# SOCIAL 
+# SOCIAL
 
 [
   {
@@ -148,3 +143,9 @@ Hex codes: #008080, #808080
   }
 
 ]
+
+
+---
+### Resources
+# setting up font awesome
+https://sylhare.github.io/2023/12/05/Font-awesome-jekyll.html
