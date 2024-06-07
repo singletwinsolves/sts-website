@@ -1,12 +1,11 @@
 version: '2'
 services:    
   app:
-    container_name: matchups 
-    image: matchups
-    env_file: matchups.env
+    container_name: web 
+    image: web
     build: 
       context: . 
-      dockerfile: Dockerfile.dev
+      dockerfile: Dockerfile
     ports:
       - "3000:3000"  
     volumes:
