@@ -14,29 +14,11 @@ bodyClass: "page-services"
   </div>
 </div>
 
-<h2 class="title">HOW OUR SERVICES BENEFIT YOU</h2>
+
+<h2 class="title">Cloud IT Services</h2>
 <div class="container pt-6 pb-6">
   <div class="row">
-    {% for item in site.data.helpdesk.options %}
-    <div class="col-12 col-md-6 mb-3">
-      <div class="service service-summary">
-        <div class="service-content">
-          <h2 class="service-title">
-            <a>{{ item.name }}</a>
-          </h2>
-          <p>{{ item.info }}</p>
-        </div>
-      </div>
-    </div>
-    {% endfor %}
-  </div>
-</div>
-
-
-<h2 class="title">AREAS WE SPECIALIZE IN</h2>
-<div class="container pt-6 pb-6">
-  <div class="row">
-    {% for item in site.data.helpdesk.areas | sort: 'weight' %}
+    {% for item in site.data.cloud.services | sort: 'weight' %}
     <div class="col-12 col-md-6 mb-3">
       <div class="service service-summary">
         <div class="service-content">

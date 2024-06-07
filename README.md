@@ -2,6 +2,17 @@
 
 Font Awesome self hosted version: 6.5.2
 
+```
+Branding Fonts: 
+Montserrat ExtraBold
+Type Machine 
+
+```
+
+# Branding Colors
+green: #4dba87
+gray: #3a1411
+
 #### Colors can be changed at assets/css/style.scss
 ```
 // Colors

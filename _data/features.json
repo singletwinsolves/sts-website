@@ -1,7 +1,7 @@
 [
   {
-    "title": "Linux Engineers",
-    "description": "Certified Linux engineers and IT experts ready to resolve your business needs.",
+    "title": "Integrity",
+    "description": "We are committed to being honest, trustworthy, respectful, and ethical with our employees and clients.",
     "image": {
       "url": "images/features/noun_branding_1885335.svg",
       "width": 80,
@@ -9,8 +9,8 @@
     }
   },
   {
-    "title": "IT Consulting",
-    "description": "Free your business from the stress of IT management and planning",
+    "title": "Quality",
+    "description": "We embrace our responsibilities and always strive to produce excellent results.",
     "image": {
       "url": "images/features/noun_The Process_1885341.svg",
       "width": 80,
@@ -18,8 +18,8 @@
     }
   },
   {
-    "title": "Experience & Expertise",
-    "description": "Technological expertise combined with tried-and-tested methodologies.",
+    "title": "Innovation",
+    "description": "We foster an environment where our employees are fountains of fresh and unique ideas.",
     "image": {
       "url": "images/features/noun_3d modeling_1885342.svg",
       "width": 80,

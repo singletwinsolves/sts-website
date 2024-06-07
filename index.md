@@ -9,4 +9,4 @@ show_call_box: true
 ---
 
 # Single Twin Solutions
-Providing strategic services and software solutions to organizations to help with their business and technology initiatives. SingleTwin Solutions is perfect for small and medium sized businesses who don't have the time, know-how or resources to manage IT and Linux needs reliably and cost effectively. 
+Providing strategic services and software solutions to organizations to help with their business and technology initiatives. SingleTwin Solutions is perfect for small and medium sized businesses who don't have the time, know-how or resources to manage IT and Linux needs. 

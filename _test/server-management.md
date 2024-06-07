@@ -8,7 +8,7 @@ weight: 8
 
 Internet & Network Security
 
-Rapid IT’s business network security service includes all the measures and practices needed to protect your company’s computer systems, data and networks from unauthorized access, theft, damage or disruption.
+SingleTwin Solutions business network security service includes all the measures and practices needed to protect your company’s computer systems, data and networks from unauthorized access, theft, damage or disruption.
 
 This includes actions such as the implementation of firewalls, encryption, secure password management, and regular updating of security software, as well as procedures for incident response and data backup.
 
