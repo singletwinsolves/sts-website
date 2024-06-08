@@ -22,7 +22,7 @@ const App = () => {
       </div> 
       <LazyShow>
         <>
-          <QuickFix /> 
+          <QuickFix />
         </>
       </LazyShow>
       <LazyShow>
