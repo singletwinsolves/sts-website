@@ -7,14 +7,15 @@
 * Icons: [Icons8](https://icons8.com)
 * Brand Colors: [BrandColors](https://brandcolors.net/)
 * Wave Colors: [/src/components/Wave.tsx](/src/components/Wave.tsx)
-#### 2. Add your own content
+
+#### Development
 
  1. **Content**: change the configuration in the ```src/config/index.json``` file to change the content of the landing page to match your use ```src/config/index.json```  folder and .
  2. **Images**:  add any images/icons..etc to the ```public/assets/images```  folder and update their reference source in ```src/config/index.json```.
  3. **Theme**:  to change the theme, update the ```tailwind.config.js```  file to match the theme of your branding. [Tutorial](https://tailwindcss.com/docs/configuration).
 
+#### Local Development
 
-#### 1. Development
 ```
 git clone <this-repo>
 cd <this-repo>
@@ -55,7 +56,7 @@ yarn build-prod
 ```
 
 
-
+---
 
 ### Features
 
