@@ -52,7 +52,8 @@ The generated HTML and CSS files are minified (built-in feature from Next js). I
 You can create an optimised production build with:
 
 ```
-yarn build-prod
+npm install --save gh-pages
+
 ```
 
 
