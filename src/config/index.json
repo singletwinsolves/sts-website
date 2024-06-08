@@ -10,7 +10,7 @@
     },
     {
       "name": "About",
-      "href": "companyinfo"
+      "href": "about"
     },
     {
       "name": "Solutions",
@@ -323,7 +323,7 @@
       },
       {
         "name": "About",
-        "href": "companyinfo"
+        "href": "about"
       },
       {
         "name": "Solutions",

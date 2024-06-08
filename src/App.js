@@ -1,4 +1,6 @@
 import React from 'react';
+ 
+import { BrowserRouter } from 'react-router-dom';
 
 import Header from './components/Header';
 import MainHero from './components/MainHero';
@@ -10,6 +12,8 @@ import Features from './components/Features';
 
 export default function App() {
   return (
+
+    <BrowserRouter>
     <div className={`bg-background grid gap-y-16 overflow-hidden`}>
       <div className={`relative bg-background`}>
         <div className="max-w-7xl mx-auto">
@@ -33,6 +37,7 @@ export default function App() {
           <Footer />
         </>
     </div>
+    </BrowserRouter>
   );
 };
 

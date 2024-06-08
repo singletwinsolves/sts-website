@@ -1,9 +1,9 @@
 import React from 'react';
 
-import Footer from '../components/Footer';
-import Features from '../components/Services';
-import Header from '../components/Header';
-import MainHero from '../components/MainHero';
+import Footer from './components/Footer';
+import Features from './components/Services';
+import Header from './components/Header';
+import MainHero from './components/MainHero';
 
 const App = () => {
   return (

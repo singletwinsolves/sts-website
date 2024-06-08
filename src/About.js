@@ -1,8 +1,8 @@
 import React from 'react';
 
-import Footer from '../components/Footer';
-import Header from '../components/Header';
-import About from '../components/Company';
+import Footer from './components/Footer';
+import Header from './components/Header';
+import About from './components/Company';
 
 const App = () => {
   return (

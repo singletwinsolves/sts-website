@@ -2,9 +2,9 @@ import React, { Fragment } from 'react';
 
 import { Popover, Transition } from '@headlessui/react';
 import { Bars3Icon, XMarkIcon } from '@heroicons/react/24/outline';
-import { Link } from "react-scroll";
+import { Link } from 'react-router-dom';
 
-import config from '../config/index.json';
+import config from '../config/index.json'; 
 
 const Menu = () => {
   const { navigation, company, callToAction } = config;
@@ -59,7 +59,7 @@ const Menu = () => {
                 </Link>
               ))}
               <a
-                href="/"
+                href="mailto:support@singletwinsolutions.com?subject=Inquiry from the web"
                 className={`font-medium text-primary hover:text-secondary`}
               >
                 Contact Us

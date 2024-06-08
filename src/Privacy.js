@@ -1,8 +1,8 @@
 import React from 'react';
 
-import Footer from '../components/Footer';
-import Header from '../components/Header';
-import Privacy from '../components/Privacy';
+import Footer from './components/Footer';
+import Header from './components/Header';
+import Privacy from './components/Privacy';
 
 const App = () => {
   return (
