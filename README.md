@@ -4,7 +4,7 @@
 
 * Icons: [Icons8](https://icons8.com)
 * Brand Colors: [BrandColors](https://brandcolors.net/)
-
+* Wave Colors: [/src/components/Wave.tsx](/src/components/Wave.tsx)
 #### 2. Add your own content
 
  1. **Content**: change the configuration in the ```src/config/index.json``` file to change the content of the landing page to match your use ```src/config/index.json```  folder and .
