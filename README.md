@@ -1,5 +1,6 @@
 # SingleTwin Solutions
 
+currently built with typescript
 [www.singletwinsolutions.com](https://www.singletwinsolutions.com)
 
 [Test site](https://singletwinsolves.github.io/sts-website/)
