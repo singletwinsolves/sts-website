@@ -53,7 +53,7 @@ You can create an optimised production build with:
 
 ```
 npm install --save gh-pages
-
+npm run deploy
 ```
 
 
