@@ -9,12 +9,6 @@
 * Wave Colors: [/src/components/Wave.tsx](/src/components/Wave.tsx)
 
 
--- removed typescript with this command 
-
-for f in `find src -iname '*.tsx' -type f -print`;do  mv "$f" ${f%.tsx}.js; done
-
-[guide to removing typescript](https://github.com/cawa-93/vite-electron-builder/discussions/339)
-
 #### Development
 
  1. **Content**: change the configuration in the ```src/config/index.json``` file to change the content of the landing page to match your use ```src/config/index.json```  folder and .
@@ -68,34 +62,6 @@ currently being used in github actions
 npx next build
 ```
 ---
-
-### Features
-
-- 📱  Responsive design
-- 🔥 [Next.js](https://nextjs.org) for Static Site Generator
-
-- 🎨 Integrate with [Tailwind CSS](https://tailwindcss.com) (w/ JIT mode)
-
-- 💅 PostCSS for processing Tailwind CSS and integrated to `styled-jsx`
-
-- 🎉 Type checking [TypeScript](https://www.typescriptlang.org)
-
-- 🗂 VSCode configuration: Debug, Settings, Tasks and extension for PostCSS, ESLint, Prettier, TypeScript
-
-- 🤖 SEO metadata, JSON-LD and Open Graph tags with Next SEO
-
-- 🖱️ One click deployment with Vercel or Netlify (or manual deployment to any hosting services)
-
-Built-in feature from Next.js:
-
-- ☕ Minify HTML & CSS
-- 💨 Live reload
-- ✅ Cache busting
-
-
-
- 
-
 
 
 ---
