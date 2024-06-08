@@ -1,7 +1,7 @@
 import React from 'react';
 
 import config from '../config/index.json';
-import Divider from './Divider';
+
 
 const QuickFix = () => {   
   const { quickfix } = config;
@@ -22,7 +22,7 @@ const QuickFix = () => {
             </span>
           ))}
         </h1>
-        <Divider />
+        
         <div className={`flex flex-wrap`}>
           <div className={`w-5/6 sm:w-1/2 p-6 mt-20`}>
             <h3
@@ -42,7 +42,7 @@ const QuickFix = () => {
             />
           </div>
         </div>
-        <Divider />
+        
         <div className={`flex flex-wrap flex-col-reverse sm:flex-row`}>
           <div className={`w-full sm:w-1/2 p-6`}>
             <img
@@ -62,7 +62,7 @@ const QuickFix = () => {
             </div>
           </div>
         </div>
-        <Divider />
+        
         <div className={`flex flex-wrap`}>
           <div className={`w-5/6 sm:w-1/2 p-6 mt-20`}>
             <h3
@@ -82,7 +82,7 @@ const QuickFix = () => {
             />
           </div>
         </div>
-        <Divider />
+        
         <div className={`flex flex-wrap flex-col-reverse sm:flex-row`}>
           <div className={`w-full sm:w-1/2 p-6`}>
             <img
@@ -102,7 +102,7 @@ const QuickFix = () => {
             </div>
           </div>
         </div>
-        <Divider />
+        
         <div className={`flex flex-wrap`}>
           <div className={`w-5/6 sm:w-1/2 p-6 mt-20`}>
             <h3
@@ -124,7 +124,7 @@ const QuickFix = () => {
             />
           </div>
         </div>
-        <Divider />
+        
         <div className={`flex flex-wrap flex-col-reverse sm:flex-row`}>
           <div className={`w-full sm:w-1/2 p-6`}>
             <img
@@ -143,7 +143,7 @@ const QuickFix = () => {
               <p className={`text-gray-600 mb-8`}>{sixthItem?.description}</p>
             </div>
           </div>
-        <Divider />
+        
         <div className={`flex flex-wrap`}>
           <div className={`w-5/6 sm:w-1/2 p-6 mt-20`}>
             <h3
@@ -165,7 +165,7 @@ const QuickFix = () => {
             />
           </div>
         </div>
-        <Divider /> 
+         
        </div>
       </div>
     </section>

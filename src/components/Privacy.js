@@ -1,7 +1,7 @@
 import React from 'react';
 
 import config from '../config/index.json';
-import Divider from './Divider';
+
 
 const Privacy = () => {
   const { privacypolicy } = config; 
@@ -22,7 +22,7 @@ const Privacy = () => {
             </span>
           ))}
         </h1>
-        <Divider />
+        
         <div className={`flex flex-wrap`}>
           <div className={`w-full sm:w-1/2 p-6`}>  
           {privacypolicyList.map((privacypolicy) => (

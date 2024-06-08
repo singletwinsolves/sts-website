@@ -1,6 +1,5 @@
 # SingleTwin Solutions
 
-currently built with typescript
 [www.singletwinsolutions.com](https://www.singletwinsolutions.com)
 
 [Test site](https://singletwinsolves.github.io/sts-website/)
@@ -8,6 +7,13 @@ currently built with typescript
 * Icons: [Icons8](https://icons8.com)
 * Brand Colors: [BrandColors](https://brandcolors.net/)
 * Wave Colors: [/src/components/Wave.tsx](/src/components/Wave.tsx)
+
+
+-- removed typescript with this command 
+
+for f in `find src -iname '*.tsx' -type f -print`;do  mv "$f" ${f%.tsx}.js; done
+
+[guide to removing typescript](https://github.com/cawa-93/vite-electron-builder/discussions/339)
 
 #### Development
 

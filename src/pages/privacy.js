@@ -3,7 +3,7 @@ import React from 'react';
 import Footer from '../components/Footer';
 import Analytics from '../components/Analytics';
 import Header from '../components/Header';
-import LazyShow from '../components/LazyShow';
+
 import Privacy from '../components/Privacy';
 
 const App = () => {
@@ -18,16 +18,12 @@ const App = () => {
           </div>
         </div> 
       </div> 
-      <LazyShow>
         <>
           <Privacy /> 
         </>
-      </LazyShow> 
-      <LazyShow>
         <>
           <Footer />
         </>
-      </LazyShow>
       <Analytics />
     </div>
   );

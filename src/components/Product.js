@@ -1,18 +1,19 @@
 import React from 'react';
 
 import config from '../config/index.json';
-import Divider from './Divider';
 
-const Companyinfo = () => {
-  const { companyinfo } = config;
-  const [firstItem, secondItem] = companyinfo.items;
+
+const Product = () => {
+  const { product } = config;
+  const [firstItem, secondItem] = product.items;
+
   return (
-    <section className={`bg-background py-8`} id="companyinfo">
+    <section className={`bg-background py-8`} id="product">
       <div className={`container max-w-5xl mx-auto m-8`}>
         <h1
           className={`w-full my-2 text-5xl font-bold leading-tight text-center text-primary`}
         >
-          {companyinfo.title.split(' ').map((word, index) => (
+          {product.title.split(' ').map((word, index) => (
             <span
               key={index}
               className={index % 2 ? 'text-primary' : 'text-border'}
@@ -21,7 +22,7 @@ const Companyinfo = () => {
             </span>
           ))}
         </h1>
-        <Divider />
+        
         <div className={`flex flex-wrap`}>
           <div className={`w-5/6 sm:w-1/2 p-6 mt-20`}>
             <h3
@@ -63,4 +64,4 @@ const Companyinfo = () => {
   );
 };
 
-export default Companyinfo;
+export default Product;

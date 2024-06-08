@@ -2,10 +2,9 @@ import React from 'react';
 
 import Footer from '../components/Footer';
 import Analytics from '../components/Analytics';
-import Canvas from '../components/Canvas';
 import Features from '../components/Services';
 import Header from '../components/Header';
-import LazyShow from '../components/LazyShow';
+
 import MainHero from '../components/MainHero';
 
 const App = () => {
@@ -21,19 +20,18 @@ const App = () => {
           </div>
         </div> 
       </div> 
-      <LazyShow> 
-      </LazyShow>
-      <LazyShow>
+       
+      
+      
         <>
           <Features /> 
         </>
-      </LazyShow> 
-      <LazyShow>
+       
+      
         <>
-          <Canvas />
           <Footer />
         </>
-      </LazyShow>
+      
       <Analytics />
     </div>
   );

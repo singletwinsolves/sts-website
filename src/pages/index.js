@@ -1,12 +1,13 @@
 import React from 'react';
 
 import Footer from '../components/Footer';
-import Analytics from '../components/Analytics'; 
+import Analytics from '../components/Analytics';
 import Features from '../components/Features';
 import Header from '../components/Header';
-import LazyShow from '../components/LazyShow';
-import Pricing from '../components/Pricing';
-import QuickFix from '../components/QuickFix';
+
+import MainHero from '../components/MainHero';
+import Product from '../components/Product';
+import About from '../components/Company';
 
 const App = () => {
   return (
@@ -17,25 +18,26 @@ const App = () => {
             className={`relative z-10 pb-8 bg-background sm:pb-16 md:pb-20 lg:max-w-2xl lg:w-full lg:pb-28 xl:pb-32`}
           >
             <Header />
+            <MainHero />
           </div>
         </div> 
       </div> 
-      <LazyShow>
+      
         <>
-          <QuickFix />
+          <Product /> 
         </>
-      </LazyShow>
-      <LazyShow>
+      
+      
         <>
-          <Pricing />
           <Features /> 
+          <About />
         </>
-      </LazyShow> 
-      <LazyShow>
+       
+      
         <> 
           <Footer />
         </>
-      </LazyShow>
+      
       <Analytics />
     </div>
   );
