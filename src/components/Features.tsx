@@ -47,6 +47,15 @@ const Features = () => {
             ))}
           </dl>
         </div>
+        <br></br>
+        <br></br>
+        <div className="flex flex-col items-center justify-center">
+            <a href="/solutions"
+              className={`block w-full px-5 py-3 text-center font-medium text-primary bg-gray-50 hover:bg-gray-100`}
+              >
+              See All Solutions
+            </a>
+          </div>
       </div>
     </div>
   );

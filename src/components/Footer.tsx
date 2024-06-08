@@ -3,7 +3,7 @@ import React from 'react';
 import config from '../config/index.json';
 
 const Footer = () => {
-  const { company, footer } = config;
+  const { callToAction, company, footer } = config;
   const { logo, name: companyName } = company;
   const { socialMedia, sections } = footer;
 
@@ -11,11 +11,22 @@ const Footer = () => {
     <div
       id="footer"
       className="mx-auto container xl:px-20 lg:px-12 sm:px-6 px-4 py-12"
-    >
+    > 
       <div className="flex flex-col items-center justify-center">
-        <div>
+      <div>
           <img src={logo} alt={companyName} className="w-16 h-16" />
         </div>
+      <a href={callToAction.href}
+        className={`block w-full px-5 py-3 text-center font-medium text-primary bg-gray-50 hover:bg-gray-100`}
+      >
+      {callToAction.text}
+      </a>
+      <br></br>
+      <br></br>
+
+      </div>
+      <div className="flex flex-col items-center justify-center">
+        
         <div className="flex flex-wrap sm:gap-10 gap-8 items-center justify-center mt-4 h-12">
           {sections.map((section, index) => (
             <a
@@ -64,8 +75,8 @@ const Footer = () => {
         <div className="flex items-center mt-6">
           <p className="mt-6 text-xs lg:text-sm leading-none text-gray-900 dark:text-gray-50">
             &copy; {new Date().getFullYear()} designed by{' '}
-            <a href="https://github.com/tedleyem" rel="nofollow">
-              Tedley Meralus
+            <a href="https://github.com/singletwinsolves" rel="nofollow">
+              STS Studios
             </a>
           </p>
         </div>

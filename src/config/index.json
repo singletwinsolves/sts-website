@@ -11,15 +11,11 @@
     {
       "name": "Solutions",
       "href": "/solutions"
-    }, 
-    {
-      "name": "About",
-      "href": "/about"
     }
   ],
   "callToAction": {
     "name": "About Contact",
-    "text": "Contact Us",
+    "text": "EMAIL: SUPPORT@SINGLETWINSOLUTIONS.COM",
     "href": "mailto:support@singletwinsolutions.com?subject=Inquiry from the web"
   },
   "mainHero": {
@@ -314,14 +310,6 @@
         "name": "Quick Fix",
         "href": "/quickfix"
       },
-      {
-        "name": "About",
-        "href": "/about"
-      }, 
-      {
-        "name": "Contact",
-        "href": "mailto:support@singletwinsolutions.com?subject=Inquiry from the web"
-      }, 
       {
         "name": "Privacy Policy",
         "href": "/privacy"

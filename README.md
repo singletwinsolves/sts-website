@@ -53,9 +53,13 @@ You can create an optimised production build with:
 
 ```
 npm install --save gh-pages
-npm run deploy
 ```
 
+##### This should build the package 
+currently being used in github actions 
+```
+npx next build
+```
 ---
 
 ### Features
@@ -89,4 +93,4 @@ Built-in feature from Next.js:
 
 ---
 
-### Sourced from <a href="https://github.com/issaafalkattan/React-Landing-Page-Template">React-Landing-Page-Template</a>
+### Sourced from <a href="https://github.com/issaafalkattan/react-landing-page-template-2021">React-Landing-Page-Template</a>
