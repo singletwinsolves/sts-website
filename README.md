@@ -1,8 +1,6 @@
-# React.js landing page template v2
+# SingleTwin Solutions
 
-## <a href="https://react-landing-page-template-2021.vercel.app/"> LIVE DEMO</a>
-
-<img src="public/assets/gifs/demo.gif" width="100%" height="auto" />
+dcu
 
 ### Description
 
@@ -34,18 +32,23 @@ Built-in feature from Next.js:
 ### Make it your own
 
 #### 1. Clone repo
-
 ```
-git clone https://github.com/issaafalkattan/react-landing-page-template-2021.git
-cd react-landing-page-template-2021
-yarn
+git clone <this-repo>
+cd <this-repo>
+npm install
 ```
 
 Then, you can run locally in development mode with live reload:
+```
+npm run dev 
+```
+
+Kill running ports 
 
 ```
-yarn dev
+npx kill-port 3000 
 ```
+
 
 Open <http://localhost:3000> with your favorite browser to see your project.
 
