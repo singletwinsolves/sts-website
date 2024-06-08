@@ -30,6 +30,7 @@ Now, whenever you run npm run build, you will see a cheat sheet with instruction
 To publish it at https://myusername.github.io/my-app, run:
 ```
 npm install --save gh-pages
+npm install react-scripts
 ```
 Alternatively you may use yarn:
 ```
