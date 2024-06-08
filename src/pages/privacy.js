@@ -1,9 +1,7 @@
 import React from 'react';
 
 import Footer from '../components/Footer';
-import Analytics from '../components/Analytics';
 import Header from '../components/Header';
-
 import Privacy from '../components/Privacy';
 
 const App = () => {
@@ -24,7 +22,6 @@ const App = () => {
         <>
           <Footer />
         </>
-      <Analytics />
     </div>
   );
 };

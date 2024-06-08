@@ -1,10 +1,8 @@
 import React from 'react';
 
 import Footer from '../components/Footer';
-import Analytics from '../components/Analytics'; 
 import Features from '../components/Features';
 import Header from '../components/Header';
-
 import Pricing from '../components/Pricing';
 import QuickFix from '../components/QuickFix';
 
@@ -20,23 +18,16 @@ const App = () => {
           </div>
         </div> 
       </div> 
-      
         <>
           <QuickFix />
-        </>
-      
-      
+        </>      
         <>
           <Pricing />
           <Features /> 
         </>
-       
-      
         <> 
           <Footer />
         </>
-      
-      <Analytics />
     </div>
   );
 };

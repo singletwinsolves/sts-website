@@ -1,10 +1,8 @@
 import React from 'react';
 
 import Footer from '../components/Footer';
-import Analytics from '../components/Analytics';
 import Features from '../components/Features';
 import Header from '../components/Header';
-
 import MainHero from '../components/MainHero';
 import Product from '../components/Product';
 import About from '../components/Company';
@@ -22,23 +20,16 @@ const App = () => {
           </div>
         </div> 
       </div> 
-      
         <>
           <Product /> 
         </>
-      
-      
         <>
           <Features /> 
           <About />
         </>
-       
-      
         <> 
           <Footer />
         </>
-      
-      <Analytics />
     </div>
   );
 };

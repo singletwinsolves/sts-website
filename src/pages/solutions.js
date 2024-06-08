@@ -1,10 +1,8 @@
 import React from 'react';
 
 import Footer from '../components/Footer';
-import Analytics from '../components/Analytics';
 import Features from '../components/Services';
 import Header from '../components/Header';
-
 import MainHero from '../components/MainHero';
 
 const App = () => {
@@ -32,7 +30,7 @@ const App = () => {
           <Footer />
         </>
       
-      <Analytics />
+      
     </div>
   );
 };
