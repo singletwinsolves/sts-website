@@ -1,7 +1,7 @@
 {
   "name": "sys-react",
   "version": "0.1.0",
-  "private": true,
+  "private": false,
   "homepage": "https://singletwinsolves.github.io/sts-website/",
   "dependencies": {
     "@headlessui/react": "^2.0.4",
